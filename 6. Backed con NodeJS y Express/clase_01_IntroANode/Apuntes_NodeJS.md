@@ -4,11 +4,11 @@
 
 ### 6.1.1 Clase: Introducción a Node
 
-$${\color{limegreen} \textbf{Objetivo General}}$$
+**Objetivo General**
 
 - Crear una aplicacion en Node que resgistre y lea informacion en formato JSON
 
-$${\color{limegreen} \textbf{Objetivos De La Clase}}$$
+**Objetivos De La Clase**
 
 1. Ejecutar scripts con Node Js desde la terminal
 2. Crear archivos con el modulo File System
@@ -17,14 +17,14 @@ $${\color{limegreen} \textbf{Objetivos De La Clase}}$$
 
 <br>
 
-<font color="#21eb1f">**Por que Node JS?**</font>
+**Por que Node JS?**
 
 Porque Node JS nos permite usar JavaScript para crear programas que funcionan fuera del navegador, en el lado del servidor. <br><br>
 Esto significa que no solo podemos hacer paginas web sino tambien crear archivos, leer datos, manejar servidores, conectarnos a bases de datos y automatizar tareas... todo usando el mismo lenguaje que ya conocemos en el FrontEnd.
 
 <br>
 
-<font color="#21eb1f">**Mi Primer Script**</font>
+**Mi Primer Script**
 
 Antes de escribir mi primer programa con Node JS, necesito comprobar que este bien instalado <br><br>
 Para hacerlo, abre la terminal y ejecuta el siguiente comando:
@@ -41,7 +41,7 @@ significa que Node JS esta instalado correctamente y ya puedo comenzar a program
 
 <br>
 
-<font color="#21eb1f">**Ejecutar JavaScript desde la Terminal**</font>
+**Ejecutar JavaScript desde la Terminal**
 
 Para ejecutar JavaScript desde la terminal podemos hacerlo con la palabra 
 
@@ -62,7 +62,7 @@ Si quieres ejecutar un archivo JavaScript desde la terminal, deberas ubicarte en
 node <nombre del archivo.js> ejemplo script.js
 ```
 
-<font color="#21eb1f">**Hola mundo con Node JS**</font>
+**Hola mundo con Node JS**
 
 Desde la carpeta donde quieras practicar vamos a crear un archivo llamado index.js o script.js
 
@@ -78,10 +78,10 @@ Hola desde Node --------> respuesta terminal
 ```
 <br>
 
-<font color="#21eb1f">**Objetivos De La Clase Completados**</font>
+**Objetivos De La Clase Completados**
 
 1. Ejecutar scripts con Node Js desde la terminal ✅
 
 <br><br>
 
-<font color="#21eb1f">**El Modulo File System**</font>
+**El Modulo File System**
