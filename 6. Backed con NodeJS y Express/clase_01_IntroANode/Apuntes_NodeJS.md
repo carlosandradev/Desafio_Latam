@@ -65,6 +65,8 @@ Type ".help" for more information.
 node <nombre del archivo.js> ejemplo script.js
 ```
 
+<br>
+
 ## 👋 Hola mundo con Node JS
 
 - Desde la carpeta donde quieras practicar vamos a crear un archivo llamado index.js o script.js
@@ -145,7 +147,7 @@ fs.writeFileSync('tareas.txt', tareas);
 
 <br>
 
-## Y si cambio el texto de la variable tareas?
+## ❓ Y si cambio el texto de la variable tareas?
 
 - Si editas el archivo script.js y cambias
 ```js
