@@ -4,11 +4,11 @@
 
 ### 6.1.1 Clase: Introducción a Node
 
-<font color="#21eb1f">**Objetivo General**</font>
+$${\color{limegreen} \textbf{Objetivo General}}$$
 
 - Crear una aplicacion en Node que resgistre y lea informacion en formato JSON
 
-<font color="#21eb1f">**Objetivos De La Clase**</font>
+$${\color{limegreen} \textbf{Objetivos De La Clase}}$$
 
 1. Ejecutar scripts con Node Js desde la terminal
 2. Crear archivos con el modulo File System
