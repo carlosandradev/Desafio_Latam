@@ -25,9 +25,9 @@
 
 - Esto significa que no solo podemos hacer paginas web sino tambien crear archivos, leer datos, manejar servidores, conectarnos a bases de datos y automatizar tareas... todo usando el mismo lenguaje que ya conocemos en el FrontEnd.
 
+<br>
 
-
-##📝 Mi Primer Script
+## 📝 Mi Primer Script
 
 - Antes de escribir mi primer programa con Node JS, necesito comprobar que este bien instalado
 Para hacerlo, abre la terminal y ejecuta el siguiente comando:
