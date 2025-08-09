@@ -33,6 +33,17 @@ const autos = [
 
 fs.writeFileSync("autos.json", JSON.stringify(autos));
 
+const contenidoAutos = fs.readFileSync('autos.json', 'utf8');
+
+const autosLeidos = JSON.parse(contenidoAutos);
+
+autosLeidos.forEach(auto => {
+  console.log(auto.modelo.toUpperCase());
+});
+
+
+
+
 
 const tareas = [
   {text: 'Ir al Gimnasio'},
@@ -48,4 +59,7 @@ fs.readFileSync('tareas.json', 'utf8')
 console.log(tareas);
 
 
+const { saludar, darLasGracias } = require('./modales.js');
 
+saludar('Gonzalo');
+darLasGracias('Javiera');
