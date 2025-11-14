@@ -7,9 +7,8 @@ const contenido = `
 fs.writeFileSync("test.docx", contenido);
 
 
-const archivo =
-`"Node Js \t Express JS"
-`
+const archivo = "Node Js \t Express JS"
+
 fs.writeFileSync("test.xls", archivo);
 
 const autos = [
@@ -40,8 +39,6 @@ const autosLeidos = JSON.parse(contenidoAutos);
 autosLeidos.forEach(auto => {
   console.log(auto.modelo.toUpperCase());
 });
-
-
 
 
 

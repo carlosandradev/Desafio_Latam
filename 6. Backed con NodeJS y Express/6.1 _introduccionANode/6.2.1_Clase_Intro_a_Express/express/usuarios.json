@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jorge",
+    "team": "Vue Js"
+  },
+  {
+    "id": 2,
+    "nombre": "Aro de Luz",
+    "team": "React Js"
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos",
+    "team": "Angular Js"
+  }
+]
